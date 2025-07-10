@@ -41,7 +41,7 @@ I work at the intersection of **applied AI**, **agile product development**, and
 - 📄 Automated extraction and summarization pipelines for onboarding documents and internal knowledge bases.
 - 🧭 Led discovery tracks with stakeholders across healthcare, finance, retail, and cultural institutions to frame AI opportunities.
 - 🏥 Previously led product development for telemedicine platforms, enabling a **157%** increase in remote consultations.
-- 🎓 Built an EdTech platform to automate classroom workflows through responsive, data-informed solutions.
+- 🎓 Built an EdTech platform to automate classroom workflows.
 
 ---
 
