@@ -47,7 +47,6 @@ I work at the intersection of **applied AI**, **agile product development**, and
 
 ## 📫 Let's connect
 
-- ✉️ Email: [wendellbarreto@gmail.com](mailto:wendellbarreto@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/wendellperbar](https://www.linkedin.com/in/wendellperbar/)
 
 ---
