@@ -43,5 +43,5 @@
 </p>
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/SEU-PERFIL">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/wendellperbar">LinkedIn</a>
 </p>
